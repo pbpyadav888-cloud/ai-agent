@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+pyautogui
+psutil
+requests
+deep-translator
+openai
